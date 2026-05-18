@@ -42,7 +42,7 @@ const App: React.FC = () => {
           <pre>
             {`+----------+
 |  REACT   |
-|   TS    |
+|   TSX    |
 | TAILWIND |
 +----------+`}
           </pre>
