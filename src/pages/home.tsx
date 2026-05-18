@@ -140,7 +140,7 @@ const App: React.FC = () => {
           {"+----------------------------------+"}
         </div>
         <p className="font-mono text-sm">
-          © {new Date().getFullYear()} Brian Kerio. All rights reserved.
+          © {new Date().getFullYear()} Designed by Brian Kerio. All rights reserved.
         </p>
         <div className="font-mono text-xs text-gray-400 dark:text-gray-600 mt-2 select-none">
           {"+----------------------------------+"}
