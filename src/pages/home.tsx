@@ -52,7 +52,7 @@ const App: React.FC = () => {
             {` /‾‾‾‾‾‾‾‾\\
 /  BUILD   \\
 |  MODERN  |
-|   APPS   |
+|   APPS WITH REACT NATIVE   |
 \\__________/`}
           </pre>
         </div>
