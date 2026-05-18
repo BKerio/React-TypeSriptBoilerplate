@@ -104,7 +104,7 @@ const App: React.FC = () => {
 
       {/* Cards Section */}
       <section className="py-16 px-8 max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {[1, 2, 3].map((item) => (
+        {[1, 2, 3, 4, 5, 6].map((item) => (
           <div
             key={item}
             className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 hover:shadow-xl transition-all duration-300 border-2 border-gray-200 dark:border-gray-700 hover:border-blue-400 dark:hover:border-blue-500"
