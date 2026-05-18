@@ -24,7 +24,7 @@ const App: React.FC = () => {
       {/* Header */}
       <header className="flex justify-between items-center px-8 py-6 bg-white dark:bg-gray-800 shadow-lg border-b-4 border-blue-700 dark:border-blue-500">
         <h1 className="text-3xl font-bold text-gray-900 dark:text-white font-mono tracking-tight">
-          {"<<React TS Tailwind />"}
+          {"<<React Boilerplate>>"}
         </h1>
         <button
           onClick={() => setDarkMode(!darkMode)}
